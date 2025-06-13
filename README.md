@@ -30,5 +30,5 @@ Password : aleena
 ## 📹 Demo Video
 
 See the uploaded demo.mp4 to watch the project in action .
-https://drive.google.com/file/d/1wolSOPHajoEwFPymZm78CsgDsn-CaAqG/view?usp=drive_link
+https://drive.google.com/file/d/1wolSOPHajoEwFPymZm78CsgDsn-CaAqG/view?usp=sharing
 
